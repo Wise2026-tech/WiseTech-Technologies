@@ -623,7 +623,7 @@ Please let me know the next steps.`;
 
 
         const whatsappNumber =
-          "233542665822";
+          "233202604029";
 
 
         const whatsappURL =
